@@ -7,3 +7,6 @@ object CurrencyOutputTransformation : OutputTransformation {
     }
 }
 ```
+Emulator: https://youtube.com/shorts/mL8R6skAR8g
+
+Samsung: https://youtube.com/shorts/2FZamLx1Pgo
